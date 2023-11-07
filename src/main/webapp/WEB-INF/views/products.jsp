@@ -23,9 +23,7 @@
 					<td>${product.id}</td>
 					<td>${product.titre}</td>
 					<td>${product.prix}</td>
-					<%-- <td><a href="${pageContext.request.contextPath}/deleteProduct/${product.id}">Delete</a></td> --%>
 					<td><a href="deleteProduct/${product.id}">Delete</a></td>
-					<%-- <td><a href="${pageContext.request.contextPath}/editProduct/${product.id}/">Edit</a> --%> 
 					<td><a href="editProduct/${product.id}/">Edit</a>
 				</tr>
 			</c:forEach>

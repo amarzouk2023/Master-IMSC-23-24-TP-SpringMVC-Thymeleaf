@@ -34,6 +34,6 @@
 
 <br />
 	<br /> Ajouter un nouveau produit
-	<a href="${pageContext.request.contextPath}/ajoutProductForm">new Product</a>
+	<a href="ajoutProductForm">new Product</a>
 </body>
 </html>

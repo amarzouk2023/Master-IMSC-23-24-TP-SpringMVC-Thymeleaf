@@ -3,10 +3,7 @@
 	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
 	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
 	id="WebApp_ID" version="3.1">
-	<display-name>tp1-springMVC-JSP-IMSC-23-24</display-name>
-	<!--<welcome-file-list>
-		
-	</welcome-file-list>-->
+	<display-name>tp2-springMVC-Thymeleaf-IMSC-23-24</display-name>
 
 	<servlet>
 		<servlet-name>dispatcher</servlet-name>
